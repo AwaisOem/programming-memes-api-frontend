@@ -1,4 +1,4 @@
-#Spark memes App (Sep 2022)
+# Spark memes App (Aug 2022)
 
 ### Tech Stack
  - React
